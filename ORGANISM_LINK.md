@@ -1,5 +1,5 @@
-# feature-1.5-vivarium-lattice · lineage organ
+# feature-1.5-vivarium-lattice · lineage fossil
 
-**Role:** fossil / lineage 1.5  
+**Role:** lineage (1.5 vivarium/lattice)  
 **Cortex:** https://github.com/adjjvmorii26-png/ixpansion  
 **Body map:** cortex `ORGANISM.md` / `ORGANISM.json`
